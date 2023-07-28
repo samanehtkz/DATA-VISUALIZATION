@@ -1,0 +1,6 @@
+libssl-doc
+freeglut3-dev
+libgtk2.0-dev
+build-essential
+pkg-config
+default-libmysqlclient-dev
